@@ -8,6 +8,7 @@
 | `MAX_PRICE_SERIES_3080` | Maximum price allowed for a match, applies 3080 series cards (does not apply to these sites: Nvidia, Asus, EVGA) |
 | `MAX_PRICE_SERIES_3080TI` | Maximum price allowed for a match, applies 3080 Ti series cards (does not apply to these sites: Nvidia, Asus, EVGA) |
 | `MAX_PRICE_SERIES_3090` | Maximum price allowed for a match, applies 3090 series cards (does not apply to these sites: Nvidia, Asus, EVGA) |
+| `MAX_PRICE_SERIES_4090` | Maximum price allowed for a match, applies 4090 series cards (does not apply to these sites: Nvidia, Asus, EVGA) |
 | `MAX_PRICE_SERIES_CORSAIR_SF` | Maximum price allowed for a match, applies to Corsair PSUs |
 | `MAX_PRICE_SERIES_DARKHERO` | Maximum price allowed for a match, applies to ASUS Dark Hero motherboards |
 | `MAX_PRICE_SERIES_RYZEN5600` | Maximum price allowed for a match, applies AMD 5600 series cpus |
@@ -262,6 +263,7 @@ Used with the `SHOW_ONLY_SERIES` variable.
 | Nvidia RTX 3080 | `3080` |
 | Nvidia RTX 3080 Ti | `3080ti` |
 | Nvidia RTX 3090 | `3090` |
+| Nvidia RTX 4090 | `4090` |
 | Corsair SFX PSU | `sf` |
 | Crosshair VIII | `darkhero` |
 | Sony PS5 | `sonyps5c` |
